@@ -1,2 +1,6 @@
 # -Arduino-based-IoT-system-to-monitor-crops
-updating soon.......
+
+The agriculture sector is one of the largest contributors to the economy of many countries. Irrigation is a crucial factor in agricultural productivity, but traditional irrigation methods are inefficient and require significant amounts of water. Automated irrigation systems have been developed to optimize water usage, but their implementation is still limited due to high installation and maintenance costs.
+To address this issue, this project proposes an automated irrigation system using a wireless sensor network and GPRS module. The system will consist of several sensor nodes placed in the field to monitor soil moisture, temperature, and humidity levels. These sensor nodes will be connected wirelessly to a central node, which will receive and process data from all sensor nodes.
+The central node will use the data to determine the appropriate time and amount of water needed for irrigation. This information will be transmitted to a GPRS module, which will send commands to an irrigation system to turn on and off the water supply as per the requirements.
+The proposed system will reduce water usage by providing accurate and timely irrigation to crops. The wireless sensor network will eliminate the need for manual monitoring, which will save time and resources. The GPRS module will ensure that the irrigation system can be controlled remotely, making it more efficient and reliable.
